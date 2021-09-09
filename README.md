@@ -16,3 +16,8 @@ If player 2 lands on number 18 (ladder 1 end), it won't matter since ladders are
 If player 4 lands on number 55 (snake 2 head), they would slither down to number 40, as that is snake 2's tail. It would not go down to number 6 as that is snake 3's tail.
 
 if player 3 lands on number 32 (ladder 2 start), they would climb up and land on square 53, ladder 2's end. Going up till 77 is not allowed since that is ladder 3's end.
+
+## Instructions 
+To make the code run, go to your C++ editor and build and run the `Controller.cpp` file. This is the main running file of the whole project. The others are header files which were used to import certain classes (thereby implementing Object Oriented Programmin) so that code can be properly maintained or reused.
+
+You can improve upon on this code or use some parts of it in your own project. Just make sure you add my github repo in the references.
